@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/choosePiece"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Choose Your Piece"
+        android:textSize="26sp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:layout_marginTop="30dp" />
+
+    <RadioGroup
+        android:id="@+id/ratingRadioGroup"
+        android:layout_width="400dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="36dp"
+        android:orientation="vertical"
+        android:padding="25dp"
+        app:layout_constraintHorizontal_bias="0.454"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/choosePiece">
+
+        <RadioButton
+            android:id="@+id/Queen"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Queen" />
+
+        <RadioButton
+            android:id="@+id/Bishop"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bishop" />
+
+        <RadioButton
+            android:id="@+id/Knight"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Knight" />
+
+        <RadioButton
+            android:id="@+id/Rook"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Rook" />
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/Submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="168dp"
+        android:layout_marginTop="28dp"
+        android:layout_marginEnd="160dp"
+        android:layout_marginRight="160dp"
+        android:backgroundTint="#4CAF50"
+        android:text="okay"
+        android:textColor="#ffff"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ratingRadioGroup" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

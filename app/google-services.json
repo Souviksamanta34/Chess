@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "153568207988",
+    "project_id": "mychessapp-1672422028657",
+    "storage_bucket": "mychessapp-1672422028657.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153568207988:android:3fdf52379ec735e1931d21",
+        "android_client_info": {
+          "package_name": "com.example.chessgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153568207988-q30b666l83vq7raiic2vqa2kf1u9bsbv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chessgame",
+            "certificate_hash": "061027bc373af2094a26ceb5007d60ffa6d985eb"
+          }
+        },
+        {
+          "client_id": "153568207988-6j9n5nv2r50icrn9n6g8qq54he6u5hdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8D2pSZnayrnfH04KWcfFCedy2a9QJm5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153568207988-6j9n5nv2r50icrn9n6g8qq54he6u5hdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Chess Game</string>
+    <string name="Restart_button">Replay</string>
+    <string name="Listen_button">Listen</string>
+    <string name="Connect_button">Connect</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_login">Login</string>
+    <string name="facebook_app_id">1341677216604901</string>
+    <string name="fb_login_protocol_scheme">fb1341677216604901</string>
+    <string name="facebook_client_token">3afee2458351e8fd127a41de7b568770</string>
+    <string name="title_activity_otp_send">OtpSend</string>
+    <string name="title_activity_otp_verify">OtpVerify</string>
+</resources>
