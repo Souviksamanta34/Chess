@@ -35,3 +35,5 @@ This project is licensed under the [MIT License](LICENSE).
 If you have any questions or suggestions, feel free to contact us at souviksamanta34@gmail.com.
 
 Happy gaming on the board!
+
+Thank you...
