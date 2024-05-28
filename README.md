@@ -1,6 +1,6 @@
 # Chess App
 
-Welcome to the Chess App! This is an Android application that brings the classic game of chess to your mobile device. With the ability to log in using your Google, Facebook, or Twitter accounts, you can start playing and enjoying chess in a convenient and accessible way.
+Welcome to the Chess App! This is an Android application that brings the classic game of chess to your mobile device. With the ability to log in using your Google, Facebook, or Twitter accounts, you can start playing and enjoying chess in a convenient and accessible way...
 
 ## Features
 
